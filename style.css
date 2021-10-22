@@ -1,0 +1,12 @@
+h6 {
+  background-color: blue;
+  color: white;
+}
+
+#switchColorButton {
+  grid-column: 2;
+}
+
+li {
+  display: inline-block;
+}
